@@ -6,6 +6,13 @@
 - 📫 *You can reach me on: yevhenchementsov@gmail.com*
 - ⚡ *In my free time, i solve problems on GeeksforGeeks, Codewars and read tech articles*
 
+### Stack in progress...
+
+<img align="left" alt="Wordpress" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<br>
+
+
 ### My stack
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
@@ -24,10 +31,3 @@
 <img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 <img align="left" alt="VS Code" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<br>
-
-### Stack in progress...
-
-<img align="left" alt="Wordpress" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /><br>
