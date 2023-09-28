@@ -10,6 +10,7 @@
 
 <img align="left" alt="Wordpress" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <br>
 
 
