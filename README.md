@@ -1,18 +1,11 @@
-<h1 align="center">Hi there, I'm Yevhen 👋</h1><br>
+<h1 align="center">Hi there, I'm Yevhen 👋</h1>
 
-### I'm a front-end developer with a background in React.
-
-- 🌱 *I’m currently learning php basics*
-- 📫 *You can reach me on: yevhenchementsov@gmail.com*
-- ⚡ *In my free time, i solve problems on GeeksforGeeks, Codewars and read tech articles*
-
-### Stack in progress...
-
-<img align="left" alt="Wordpress" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+## I'm a junior frontend developer with React.js basics, ready to contribute my technical expertise to dynamic web development projects. With an attention to detail and a passion for creating user-friendly and user-centered interfaces, I strive to stay abreast of industry trends and emerging technologies. As a team player with excellent problem-solving abilities, I am excited to utilize my experience with React to create compelling and responsive web applications. Looking for an opportunity to grow and learn in a forward-thinking development team.
 <br>
 
+- 🌱 *I’m currently learning php basics and wordpress*
+- 📫 *You can reach me on: yevhenchementsov@gmail.com*
+- ⚡ *In my free time, i solve problems on GeeksforGeeks, LeetCode, Codewars and read tech articles*
 
 ### My stack
 
