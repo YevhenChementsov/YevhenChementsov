@@ -2,7 +2,7 @@
 
 ### I'm a junior frontend developer with React.js basics, ready to contribute my technical expertise to dynamic web development projects. With an attention to detail and a passion for creating user-friendly and user-centered interfaces, I strive to stay abreast of industry trends and emerging technologies. As a team player with excellent problem-solving abilities, I am excited to utilize my experience with React to create compelling and responsive web applications. Looking for an opportunity to grow and learn in a forward-thinking development team.<br>
 
-- 🌱 *I’m currently learning Typescript, after which, I will start learning Node.js*
+- 🌱 *I’m currently learning Typescript, after which, I will start learning Next.js*
 - 📫 *You can reach me on: yevhenchementsov@gmail.com*
 - ⚡ *In my spare time, I solve problems on GeeksforGeeks, LeetCode, Codewars, read tech articles, and follow new products and updates on YouTube.*
  
