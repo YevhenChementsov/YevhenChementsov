@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Yevhen 👋</h1>
 
-### I'm a Junior Fullstack (React, Node.js) Developer, ready to contribute my technical expertise to dynamic web development projects. With an attention to detail and a passion for creating user-friendly and user-centered interfaces, I strive to stay abreast of industry trends and emerging technologies. As a team player with excellent problem-solving abilities, I am excited to utilize my experience with React and Node to create compelling and responsive web applications. Looking for an opportunity to grow and learn in a forward-thinking development team.<br>
+### I'm a junior full-stack (React, Node.js) developer, ready to contribute my technical expertise to dynamic web development projects. With an attention to detail and a passion for creating user-friendly and user-centered interfaces, I strive to stay abreast of industry trends and emerging technologies. As a team player with excellent problem-solving abilities, I am excited to utilize my experience with React and Node to create compelling and responsive web applications. Looking for an opportunity to grow and learn in a forward-thinking development team.<br>
 
-- 🌱 *I’m currently finishing up learning Node.js and MongoDB*
+- 🌱 *I have currently finished learning Node.js & MongoDB and have started learning Next.js & PostgreSQL*
 - 📫 *You can reach me on: yevhenchementsov@gmail.com*
-- ⚡ *In my spare time, I solve problems on GeeksforGeeks, LeetCode, Codewars, read tech articles, and follow new products and updates on YouTube.*
+- ⚡ *In my spare time, I solve problems on GeeksforGeeks, LeetCode, Codewars, HackerRank & freeCodeCamp, read tech articles in "JavaScript Weekly" & "Node Weekly" and follow new products and updates on YouTube.*
  
 ### My current stack:
 
