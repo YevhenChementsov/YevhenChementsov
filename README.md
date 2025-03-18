@@ -24,4 +24,5 @@
  <img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
  <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
  <img align="left" alt="VS Code" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+ <img align="left" alt="Neovim" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" />
 </div>
